@@ -60,5 +60,7 @@
         "linter": "eslint"
       }
     }
-  }
+  },
+  "nxCloudAccessToken": "YmEwN2VjNTctZGI3Mi00NTk3LThlNzAtYzFjNjkzZmJjMWQyfHJlYWQtd3JpdGU=",
+  "nxCloudUrl": "https://snapshot.nx.app"
 }
